@@ -1,0 +1,4 @@
+c:\users\joão\documents\visual studio 2015\Projects\Repositorio.Contatos\Repositorio.Entidades\bin\Debug\Repositorio.Entidades.dll
+c:\users\joão\documents\visual studio 2015\Projects\Repositorio.Contatos\Repositorio.Entidades\bin\Debug\Repositorio.Entidades.pdb
+c:\users\joão\documents\visual studio 2015\Projects\Repositorio.Contatos\Repositorio.Entidades\obj\Debug\Repositorio.Entidades.dll
+c:\users\joão\documents\visual studio 2015\Projects\Repositorio.Contatos\Repositorio.Entidades\obj\Debug\Repositorio.Entidades.pdb

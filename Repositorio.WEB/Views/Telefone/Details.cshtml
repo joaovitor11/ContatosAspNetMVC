@@ -1,0 +1,42 @@
+﻿@model Repositorio.Entidades.Telefone
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Telefone</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ContatoID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ContatoID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumeroTelefone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumeroTelefone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TipoTelefone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TipoTelefone)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.TelefoneID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
